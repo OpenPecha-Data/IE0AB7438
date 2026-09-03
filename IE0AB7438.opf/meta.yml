@@ -1,0 +1,24 @@
+id: IE0AB7438
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-SK-05
+  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་ལྔ་པ།
+  author: མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  authors: &id001
+  - མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ།
+  sku: RDI-SK-05
+  cover: RDI-SK-05.jpeg
+  volume: {}
+ebook_metadata:
+  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་ལྔ་པ།
+  authors: *id001
+  sku: RDI-SK-05
+  cover: RDI-SK-05.jpeg
+layers:
+- Author
+- BookTitle
+- Citation
+- Commentary
+- Footnote
+- Sabche
+- Yigchung

@@ -1,0 +1,53 @@
+id: b3e3dc44dbad42a3904e3ff86d2308ad
+annotation_type: Footnote
+revision: '00001'
+annotations:
+  aba205c4055f4f2ba2749377ac2bc7fa:
+    span:
+      start: 35448
+      end: 35448
+    footnote_ref: ༡ མ་དཔེར་<དབུགས་ཤད་བྲག་ལ་>ཞེས་གསལ།
+  24d54d0680304bbb8fa17ba90c966c68:
+    span:
+      start: 99546
+      end: 99546
+    footnote_ref: ' ༡ མ་དཔེར་<ཆེར་རེ་>ཞེས་གསལ།'
+  62a3eccc3c5443dc811eef83a31c75b2:
+    span:
+      start: 207879
+      end: 207879
+    footnote_ref: ' ༡ དཔེ་གཅིག་ལ་འདི་འདུག་པས་བརྟག'
+  155b37586c9a4c25afb93000b3306066:
+    span:
+      start: 214568
+      end: 214568
+    footnote_ref: ' ༡ དཔེ་གཅིག་ལ་འདི་མི་སྣང༌།'
+  c922d03ad3374bb5b85fd08d83fbb877:
+    span:
+      start: 268969
+      end: 268969
+    footnote_ref: ' ༡ མ་དཔེ་གཞན་དུ་<ནཻ་གུསྟཱ་>གསལ།'
+  5b800370bc7d45389ecb103254a546a7:
+    span:
+      start: 271773
+      end: 271773
+    footnote_ref: ' ༡ ལོ་ཆེན་འགྱུར་མེད་བདེ་ཆེན་ཞེས་མཆན་དུ་སྣང༌།'
+  f3a73f5ff32443c58b4e046d3d17354a:
+    span:
+      start: 283296
+      end: 283296
+    footnote_ref: ' མཆན་དུ ༡ <པདྨ་ཟེར་བ་དེ་ཡིན།> ༢ <ཡས་ལྤགས་སྟེང་རི་མོ་དེ་ལ་ཟེར།>ཅེས་གསལ།'
+  e4a7ac34e7f14c1c8908593e2e1c4116:
+    span:
+      start: 283308
+      end: 283308
+    footnote_ref: ' མཆན་དུ་ ༡ <བདེ་དྲོད་ཀྱི་རང་ཉམས་ཅན་>ཅེས་གསལ།'
+local_ids:
+  aba205c4055f4f2ba2749377ac2bc7fa: 200000
+  24d54d0680304bbb8fa17ba90c966c68: 200001
+  62a3eccc3c5443dc811eef83a31c75b2: 200002
+  155b37586c9a4c25afb93000b3306066: 200003
+  c922d03ad3374bb5b85fd08d83fbb877: 200004
+  5b800370bc7d45389ecb103254a546a7: 200005
+  f3a73f5ff32443c58b4e046d3d17354a: 200006
+  e4a7ac34e7f14c1c8908593e2e1c4116: 200007
