@@ -1,53 +1,53 @@
-id: b3e3dc44dbad42a3904e3ff86d2308ad
+id: 49e2aeca6ef24380a0d255639bfb2fe5
 annotation_type: Footnote
 revision: '00001'
 annotations:
-  aba205c4055f4f2ba2749377ac2bc7fa:
+  d73964d45a1f444b8a06cb1660e225b1:
     span:
       start: 35448
       end: 35448
     footnote_ref: ༡ མ་དཔེར་<དབུགས་ཤད་བྲག་ལ་>ཞེས་གསལ།
-  24d54d0680304bbb8fa17ba90c966c68:
+  2a46bb6fec33470a83e7354c3c625b36:
     span:
       start: 99546
       end: 99546
     footnote_ref: ' ༡ མ་དཔེར་<ཆེར་རེ་>ཞེས་གསལ།'
-  62a3eccc3c5443dc811eef83a31c75b2:
+  e17ccfaa8a02467fb379b592298dc845:
     span:
       start: 207879
       end: 207879
     footnote_ref: ' ༡ དཔེ་གཅིག་ལ་འདི་འདུག་པས་བརྟག'
-  155b37586c9a4c25afb93000b3306066:
+  0552880bf9bb40bb8775e44fcbc1809f:
     span:
       start: 214568
       end: 214568
     footnote_ref: ' ༡ དཔེ་གཅིག་ལ་འདི་མི་སྣང༌།'
-  c922d03ad3374bb5b85fd08d83fbb877:
+  d88b37a15a564a4c85674d265ed47213:
     span:
       start: 268969
       end: 268969
     footnote_ref: ' ༡ མ་དཔེ་གཞན་དུ་<ནཻ་གུསྟཱ་>གསལ།'
-  5b800370bc7d45389ecb103254a546a7:
+  71e5b9cd68d746e4ada6c67b5b221419:
     span:
       start: 271773
       end: 271773
     footnote_ref: ' ༡ ལོ་ཆེན་འགྱུར་མེད་བདེ་ཆེན་ཞེས་མཆན་དུ་སྣང༌།'
-  f3a73f5ff32443c58b4e046d3d17354a:
+  75c56141a03d47f7bc80b614f7408143:
     span:
       start: 283296
       end: 283296
     footnote_ref: ' མཆན་དུ ༡ <པདྨ་ཟེར་བ་དེ་ཡིན།> ༢ <ཡས་ལྤགས་སྟེང་རི་མོ་དེ་ལ་ཟེར།>ཅེས་གསལ།'
-  e4a7ac34e7f14c1c8908593e2e1c4116:
+  c70a80f940294765806499e82c77e405:
     span:
       start: 283308
       end: 283308
     footnote_ref: ' མཆན་དུ་ ༡ <བདེ་དྲོད་ཀྱི་རང་ཉམས་ཅན་>ཅེས་གསལ།'
 local_ids:
-  aba205c4055f4f2ba2749377ac2bc7fa: 200000
-  24d54d0680304bbb8fa17ba90c966c68: 200001
-  62a3eccc3c5443dc811eef83a31c75b2: 200002
-  155b37586c9a4c25afb93000b3306066: 200003
-  c922d03ad3374bb5b85fd08d83fbb877: 200004
-  5b800370bc7d45389ecb103254a546a7: 200005
-  f3a73f5ff32443c58b4e046d3d17354a: 200006
-  e4a7ac34e7f14c1c8908593e2e1c4116: 200007
+  d73964d45a1f444b8a06cb1660e225b1: 200000
+  2a46bb6fec33470a83e7354c3c625b36: 200001
+  e17ccfaa8a02467fb379b592298dc845: 200002
+  0552880bf9bb40bb8775e44fcbc1809f: 200003
+  d88b37a15a564a4c85674d265ed47213: 200004
+  71e5b9cd68d746e4ada6c67b5b221419: 200005
+  75c56141a03d47f7bc80b614f7408143: 200006
+  c70a80f940294765806499e82c77e405: 200007
