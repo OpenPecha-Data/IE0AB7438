@@ -9,6 +9,7 @@ source_metadata:
   sku: RDI-SK-05
   cover: RDI-SK-05.jpeg
   volume: {}
+  series: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
   title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
   title: ནི་གུ་ཆོས་དྲུག་གི་ཟིན་ཁྲིད་གཅེས་བཏུས།
@@ -17,6 +18,7 @@ ebook_metadata:
   cover: RDI-SK-05.jpeg
 layers:
 - Author
+- BookNumber
 - BookTitle
 - Chapter
 - Citation

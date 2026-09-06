@@ -1,15 +1,15 @@
-id: 3d3080cb2e6d4a7eba9e8cf9d888a456
+id: 5e783b21655b44039f4639714254e10f
 annotation_type: Chapter
 revision: '00001'
 annotations:
-  8bcd1df94293488f8e98be9f4af594de:
+  ce8768e9f3454b1583b062ba137ccaff:
     span:
-      start: 124
-      end: 141
-  36da26d158e14dfdad265d2888474c5a:
+      start: 125
+      end: 142
+  4d1998a8fa6848ad8aa974168a0ef29e:
     span:
-      start: 294441
-      end: 294458
+      start: 294442
+      end: 294459
 local_ids:
-  8bcd1df94293488f8e98be9f4af594de: 200000
-  36da26d158e14dfdad265d2888474c5a: 200001
+  ce8768e9f3454b1583b062ba137ccaff: 200000
+  4d1998a8fa6848ad8aa974168a0ef29e: 200001
